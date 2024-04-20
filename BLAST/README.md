@@ -1,1 +1,1 @@
-# how I found the immune genes in Daphnia
+Identifying the innate immune system genes in each Daphnia species.
