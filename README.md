@@ -1,3 +1,3 @@
 # dappuimmune22
 
-madi's honor thesis!
+Madi's honor thesis work for understanding selection on the innate immune system in Daphnia.
